@@ -152,7 +152,7 @@ class AuthController extends AppController {
     public function version()
     {
         $plugins = $this->EyPlugin->pluginsLoaded;
-        $version = $plugins->{'empiredev.auth.102'}->{'version'};
+        $version = $plugins->{'empiredev.auth'}->{'version'};
         echo 'AuthMineweb OK - Version '.$version;
         exit;
     }
