@@ -1,1 +1,16 @@
-{"name":"AuthMineweb","author":"EmpireDev","version":"1.3.7","apiID":-1,"useEvents":false,"permissions":{"available":[],"default":{"0":[],"2":[]}},"requirements":{"CMS":"^1.2.0"}}
+{
+    "name": "AuthMineweb",
+    "author": "EmpireDev",
+    "version": "1.3.7",
+    "useEvents": false,
+    "permissions": {
+        "available": [],
+        "default": {
+            "0": [],
+            "2": []
+        }
+    },
+    "requirements": {
+        "CMS": "^1.2.0"
+    }
+}
